@@ -51,7 +51,7 @@ Jenkins GUI와 유사한 UI를 구현함으로써 추후 Jenkins로 CI/CD 파이
 
 ### 4. AI 챗봇
 * 모든 페이지에서 화면 우측 하단의 챗봇 아이콘을 클릭하여 채팅창을 열 수 있습니다.
-* Hugging Face 플랫폼의 오픈소스 LLM을 FastAPI로 구현하였으며, Jenkins 공식 문서를 크롤링 후 RAG 기법을 적용했습니다.
+* Hugging Face 플랫폼의 오픈소스 LLM을 FastAPI로 구현하였으며, Jenkins 공식 문서 크롤링 후 RAG 기법을 적용했습니다.
 * 가장 정확한 답변을 제공한 NVIDIA의 LLaMA 파인튜닝 모델을 챗봇 모델로 선정했습니다.
 <br/>
 
