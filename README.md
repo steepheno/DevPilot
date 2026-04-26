@@ -63,7 +63,7 @@ Jenkins GUI와 유사한 UI를 구현함으로써 추후 Jenkins로 CI/CD 파이
 
 ---
 ## 👨‍👩‍👧‍👦 팀원 소개
-|팀장|FE 리드|FE / Wails 개발|BE 리드|BE|BE / AI 챗봇 구현|
+|팀장|FE 리드|FE / Wails 개발|BE 리드|BE|BE / AI 챗봇|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://avatars.githubusercontent.com/u/145307456?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/125232426?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/55517023?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/98104967?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/99404991?v=4" width="150"/>|
 |[한재서](https://github.com/rpeowiqu)|[유준선](https://github.com/steepheno)|[이지운](https://github.com/isemae)|[김용명](https://github.com/kunzatt)|[이준환](https://github.com/ljh0401)|[박성문](https://github.com/SungMoonPark)|
