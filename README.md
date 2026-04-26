@@ -51,7 +51,7 @@ Jenkins GUI와 유사한 UI를 구현함으로써 추후 Jenkins로 CI/CD 파이
 
 ### 4. AI 챗봇
 * 모든 페이지에서 화면 우측 하단의 챗봇 아이콘을 클릭하여 채팅창을 열 수 있습니다.
-* Hugging Face 플랫폼의 오픈소스 LLM을 FastAPI로 구현하였으며, Jenkins 공식 문서 크롤링 후 RAG 기법을 적용했습니다.
+* Hugging Face 플랫폼의 오픈소스 LLM을 FastAPI로 구현하고, Jenkins 공식 문서 크롤링 후 RAG 기법을 적용했습니다.
 * 가장 정확한 답변을 제공한 NVIDIA의 LLaMA 파인튜닝 모델을 챗봇 모델로 선정했습니다.
 <br/>
 
@@ -63,11 +63,10 @@ Jenkins GUI와 유사한 UI를 구현함으로써 추후 Jenkins로 CI/CD 파이
 
 ---
 ## 👨‍👩‍👧‍👦 팀원 소개
-|팀장|FE 리드|FE / Wails 앱 개발|BE 리드|BE|BE / AI 챗봇 구현|
+|팀장|FE 리드|FE / Wails 개발|BE 리드|BE|BE / AI 챗봇 구현|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://avatars.githubusercontent.com/u/145307456?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/125232426?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/55517023?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/98104967?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/78478247?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/99404991?v=4" width="150"/>|
 |[한재서](https://github.com/rpeowiqu)|[유준선](https://github.com/steepheno)|[이지운](https://github.com/isemae)|[김용명](https://github.com/kunzatt)|[이준환](https://github.com/ljh0401)|[박성문](https://github.com/SungMoonPark)|
-
 <br/>
 
 ## ⚙️ 아키텍처
